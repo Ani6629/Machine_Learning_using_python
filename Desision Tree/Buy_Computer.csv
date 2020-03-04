@@ -1,0 +1,15 @@
+id,age,income,student,credit_rating,Buy_Computer
+1,youth,high,0,fair,0
+2,youth,high,0,excellent,0
+3,middle_age,high,0,fair,1
+4,senior,medium,0,fair,1
+5,senior,low,1,fair,1
+6,senior,low,1,excellent,0
+7,middle_age,low,1,excellent,1
+8,youth,medium,0,fair,0
+9,youth,low,1,fair,1
+10,senior,medium,1,fair,1
+11,youth,medium,1,excellent,1
+12,middle_age,medium,0,excellent,1
+13,middle_age,high,1,fair,1
+14,senior,medium,0,excellent,0
